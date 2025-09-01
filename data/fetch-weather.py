@@ -29,6 +29,3 @@ with open(filename, "w") as f:
     json.dump(weather_response, f, indent=2)
 
 print(f"Weather data saved to {filename}")
-
-
-Add fetch-weather.py script
