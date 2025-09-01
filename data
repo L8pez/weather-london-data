@@ -1,5 +1,0 @@
-weather-london-data/
-│
-├─ data/                   # where your JSON files will go
-└─ .github/
-   └─ workflows/           # where GitHub Actions workflow files go
